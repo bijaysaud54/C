@@ -13,6 +13,7 @@ int main() {
         ++n;
     }
 
+    
     original = num;
     while (original != 0) {
         remainder = original % 10;
